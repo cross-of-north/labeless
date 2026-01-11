@@ -52,3 +52,5 @@
 /deploy/labeless.egg-info
 /test_x64dbg/x32/python310.dll
 /test_x64dbg/x64/python310.dll
+*.qml
+*.qtvscr
